@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Averia";
+  src: url("./assets/AveriaSerif-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Buycat";
+  src: url("./assets/Buycat.ttf");
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #F5F7F2;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
